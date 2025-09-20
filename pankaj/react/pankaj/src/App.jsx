@@ -5,6 +5,7 @@ import './App.css'
 import Add from './components/sonu'
 import Greet from './greet'
 import Sum from './components/sum'
+import Multi from './components/multipal'
 
 function App() {
 
@@ -15,7 +16,7 @@ function App() {
       <Add/>
       <Greet/>
       <Sum/>
-      
+      <Multi/>
     </>
   )
 }
