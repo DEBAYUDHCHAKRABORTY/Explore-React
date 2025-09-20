@@ -6,6 +6,7 @@ import Sup from './component/Sup'
 import Hello from './component/Hello'
 import Good from './component/Good'
 import Cool from './component/Cook'
+import Tata from './component/Tata'
 function App() {
   
   return (
@@ -16,6 +17,7 @@ function App() {
        <Hello/>
        <Good/>
        <Cool/>
+       <Tata/>
     </>
   )
 }
