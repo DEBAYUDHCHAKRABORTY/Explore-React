@@ -5,6 +5,7 @@ import Pankaj_bro from './component/Pankaj_bro'
 import Sup from './component/Sup'
 import Hello from './component/Hello'
 import Good from './component/Good'
+import Cool from './component/Cook'
 function App() {
   
   return (
@@ -14,6 +15,7 @@ function App() {
        <Sup/>
        <Hello/>
        <Good/>
+       <Cool/>
     </>
   )
 }
