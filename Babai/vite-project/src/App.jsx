@@ -8,6 +8,7 @@ import Component2 from './Component/Component two'
 import HelloWorld from './Component/HelloWorld'
 import Counter3 from './Component/Counter'
 import Button from './Component/Button'
+import Alert from './Component/Alert'
 
 function App() {
 
@@ -20,8 +21,9 @@ function App() {
       <HelloWorld />
       <Counter3 />
       <Button />
+      <Alert />
     </>
   )
-}
+};
 
 export default App
