@@ -10,6 +10,7 @@ import Sum from './components/sum'
 import Multi from './components/multi'
 import Alert from './components/alert'
 import Plus from './components/sumAlert'
+import ALert2 from './components/alert2'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -24,6 +25,7 @@ function App() {
       <Multi/>
       <Alert/>
       <Plus/>
+      <ALert2/>
     </>
   )
 }
