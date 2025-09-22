@@ -8,7 +8,9 @@ import Sum from './components/sum'
 import Multi from './components/multipal'
 import Alert from './components/alert'
 import Jog from './components/add'
+
 import Aler from './components/add'
+import Con from './components/com1'
 
 function App() {
 
@@ -23,6 +25,7 @@ function App() {
       <Alert/>
       <Jog/>
       <Aler/>
+      <Con/>
     </>
   )
 }
