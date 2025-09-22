@@ -8,6 +8,9 @@ import Czar3 from './components/czar3'
 import Click from './components/button'
 import Sum from './components/sum'
 import Multi from './components/multi'
+import Alert from './components/alert'
+import Plus from './components/sumAlert'
+import ALert2 from './components/alert2'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -20,6 +23,9 @@ function App() {
       <Click/>
       <Sum/>
       <Multi/>
+      <Alert/>
+      <Plus/>
+      <ALert2/>
     </>
   )
 }
