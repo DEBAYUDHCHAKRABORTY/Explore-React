@@ -6,6 +6,9 @@ import Add from './components/sonu'
 import Greet from './greet'
 import Sum from './components/sum'
 import Multi from './components/multipal'
+import Alert from './components/alert'
+import Jog from './components/add'
+import Aler from './components/add'
 
 function App() {
 
@@ -17,6 +20,9 @@ function App() {
       <Greet/>
       <Sum/>
       <Multi/>
+      <Alert/>
+      <Jog/>
+      <Aler/>
     </>
   )
 }
