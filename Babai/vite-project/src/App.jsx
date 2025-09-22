@@ -8,6 +8,7 @@ import Component2 from './Component/Component two'
 import HelloWorld from './Component/HelloWorld'
 import Counter3 from './Component/Counter'
 import Alert from './Component/alertComponent'
+import NewAlert from './Component/Console'
 
 
 
@@ -22,6 +23,7 @@ function App() {
       <HelloWorld />
       <Counter3 />
       <Alert/>
+      <NewAlert/>
 
 
     </>
